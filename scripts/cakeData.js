@@ -6,7 +6,7 @@ export const cakeData = {
             cost: 39.99,
         },
         {
-            name: "Vanilla Cake",
+            name: "Vanislla Cake",
             description: "A classic vanilla cake that's always a hit.",
             cost: 29.99
         }
